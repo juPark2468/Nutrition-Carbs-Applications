@@ -1,0 +1,5 @@
+.env
+dexcomToken.json
+node_modules
+foodData.json
+mealData.json
